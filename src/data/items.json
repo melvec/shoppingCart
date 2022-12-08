@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name":"computer",
+        "price": 2121,
+        "imgUrl": "./imgs/computer.png"
+    },
+    {
+        "id": 2,
+        "name":"koala",
+        "price": 2121,
+        "imgUrl": "./imgs/koala.png"
+    },
+    {
+        "id": 3,
+        "name":"landscape",
+        "price": 2121,
+        "imgUrl": "./imgs/landscape.png"
+    }
+]
